@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ExcelCreateInput" target="1.5" />
+      <module name="ExcelCreateInput" target="9" />
     </bytecodeTargetLevel>
   </component>
 </project>
